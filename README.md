@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C# , .NET , PHP , Laravel**
 
-- 👨‍💻 All of my projects are available at [https://delightful-conkies-fcc054.netlify.app/](https://delightful-conkies-fcc054.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Laravel , .NET**
 

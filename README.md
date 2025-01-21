@@ -1,20 +1,3 @@
-<h1 align="center">Hi 👋, I'm Otajonov Muhammadali</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
-
-
- <img align="center" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="Uzbekistan GIF" />
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otajonov&label=Profile%20views&color=0e75b6&style=flat" alt="otajonov" /> </p>
-
-- 🌱 I’m currently learning **C# , .NET , PHP , Laravel**
-
-- 👨‍💻 All of my projects are available at 
-
-- 💬 Ask me about **Laravel , .NET**
-
-- 📫 How to reach me **otajonovmuhammadali668@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/muhammadali-otajonov-elmurodovich" target="blank">
